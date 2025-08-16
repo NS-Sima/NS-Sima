@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NS-Sima
-- 👀 I’m interested in Software development PHP & Laravel and Python & Django,
-- 🌱 Data Analyst using Python & R
-- 💞️ I’m looking to collaborate on PHP & Laravel and Django projects
+- 👀 I’m Web Application developer using Spring and Laravel Frameworks
+- 💞️ I’m looking to collaborate on Java,Python and PHP projects
 - 📫 How to reach me via 0687549790 or simaseleman22@gmail.com
 
 <!---
